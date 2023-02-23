@@ -6,5 +6,5 @@
 </div>
 
 <div align="center">
-  <img alt="Demo" src="Calculator.jpg" />
+  <img alt="Demo" src="Calculator.png" />
 </div>
