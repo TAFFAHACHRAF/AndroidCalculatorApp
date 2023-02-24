@@ -47,10 +47,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
        assignId(buttonAC,R.id.button_ac);
        assignId(buttonDot,R.id.button_dot);
 
-
-
-
-
     }
 
     void assignId(MaterialButton btn,int id){
@@ -86,7 +82,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if(!finalResult.equals("Err")){
             resultTv.setText(finalResult);
         }
-
     }
 
     String getResult(String data){
